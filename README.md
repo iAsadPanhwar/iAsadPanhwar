@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Machine Learning Projects**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Deep Learning, SQL, NLP**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Mahcine Learning, Data Manipulation... or anything [here](https://github.com/iAsadPanhwar/iAsadPanhwar/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Your brain is constantly eating itself.**
 
  </div>
  
