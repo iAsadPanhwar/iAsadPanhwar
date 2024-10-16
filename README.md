@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asad+Panhwar!;" />
 </h1>
 
-<h3 align="center">A passionate Data Science Aspirant from Pakistan </h3>
+<h3 align="center">A passionate Data Science Aspirant from Pakistan</h3>
 
 <br/>
 
@@ -14,11 +14,11 @@
  
  🌱 I’m currently learning **Deep Learning, SQL, PowerBI, NLP**
 
-💬 Ask me about **Mahcine Learning, Data Manipulation... or anything [here](https://github.com/iAsadPanhwar/iAsadPanhwar/issues)**
+💬 Ask me about **Machine Learning, Data Manipulation... or anything [here](https://github.com/iAsadPanhwar/iAsadPanhwar/issues)**
 
 ⚡ Fun fact **Your brain is constantly eating itself.**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:asadalipuh5@gmail.com">
@@ -28,12 +28,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://iAsadPanhwar.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -44,15 +44,16 @@
 <br/>
 <hr/>
 
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iAsadPanhwar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
+  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAsadPanhwar&theme=gotham&hide_border=false)
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iAsadPanhwar&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 <br/><br/>
