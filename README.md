@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ai,html,vscode,github,git,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,github,git,githubactions" /><br>
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,sklearn,githubactions" /><br>
     <img src="https://skillicons.dev/icons?i=python,tensorflow,mysql,flask,docker,kubernetes" /><br>
 </div>
 
