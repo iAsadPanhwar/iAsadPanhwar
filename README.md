@@ -48,6 +48,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
+
+<img src="https://your-vercel-app.vercel.app/api/cards/profile-details?username=iAsadPanhwar&theme=dark"/>
+
   
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAsadPanhwar&theme=gotham&hide_border=false&cache_seconds=21600)
