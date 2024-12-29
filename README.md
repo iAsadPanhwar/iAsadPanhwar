@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asad+Panhwar!;" />
 </h1>
 
-<h3 align="center">A passionate Data Science Aspirant from Pakistan</h3>
+<h3 align="center">An experienced AI Engineer from Pakistan</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Machine Learning Projects**
+ 🔭 I’m currently working on **Generative AI Projects for my clients**
  
- 🌱 I’m currently learning **Deep Learning, SQL, PowerBI, NLP**
+ 🌱 I’m currently learning **AI in Production**
 
-💬 Ask me about **Machine Learning, Data Manipulation... or anything [here](https://github.com/iAsadPanhwar/iAsadPanhwar/issues)**
+💬 Ask me about **Machine Learning, AI ... or anything [here](https://github.com/iAsadPanhwar/iAsadPanhwar/issues)**
 
 ⚡ Fun fact **Your brain is constantly eating itself.**
 
