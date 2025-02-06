@@ -53,7 +53,8 @@
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAsadPanhwar&theme=gotham&hide_border=false&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAsadPanhwar&layout=donut&size_weight=0.5&count_weight=0.5&hide=Tcl,C,Cython,SCSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAsadPanhwar&layout=pie&size_weight=0.5&count_weight=0.5&hide=Tcl,C,Cython,SCSS)
+
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAsadPanhwar&theme=dark&cache_seconds=21600"/>
 
