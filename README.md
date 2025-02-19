@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asad+Panhwar!;" />
 </h1>
 
-<h3 align="center">An experienced AI Engineer from Pakistan</h3>
+<h3 align="center">An experienced Full Stack AI Engineer from Pakistan</h3>
 
 <br/>
 
@@ -53,7 +53,7 @@
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iAsadPanhwar&theme=gotham&hide_border=false&cache_seconds=21600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAsadPanhwar&layout=pie&size_weight=0.5&count_weight=0.5&hide=Tcl,C,Cython,SCSS&exclude_repo=Costumer_churn,email_spam,opem_cv,NLP,Supervision,bone_fracture,brain_mri,cifar_10,breast_cancer_CNN,breast_cancer,water_probability,sloan_digital_sky,sentiment_analysis,comment_toxicity_CNN,fake_new_detector,email_spam_detector,solar_eclipse,decease_predictor,Google_Stock_Predicter,Neural_Network,Karachi_home_price-predictor,Llama3,Introduction-To-LLMs,Working-With-Hugging-Face,Resume-Screening-App,Fine-Tuning-and-Embeddings-,Multi-Model-RAG,GRAPH-DB,ml-project-end-to-end,Langgraph-end-to-end,RAG-Arabic)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAsadPanhwar&layout=pie&size_weight=0.5&count_weight=0.5&hide=Tcl,C,Cython,SCSS&exclude_repo=Costumer_churn,email_spam,opem_cv,NLP,Supervision,bone_fracture,brain_mri,cifar_10,breast_cancer_CNN,breast_cancer,water_probability,sloan_digital_sky,sentiment_analysis,comment_toxicity_CNN,fake_new_detector,email_spam_detector,solar_eclipse,decease_predictor,Google_Stock_Predicter,Neural_Network,Karachi_home_price-predictor,Introduction-To-LLMs,Working-With-Hugging-Face,Resume-Screening-App,Fine-Tuning-and-Embeddings-,Multi-Model-RAG,GRAPH-DB,ml-project-end-to-end,Langgraph-end-to-end,RAG-Arabic)
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iAsadPanhwar&theme=dark&cache_seconds=21600"/>
